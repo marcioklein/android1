@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eafdecision11/AndroidStudioProjects/Exercicio2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eafdecision11/AndroidStudioProjects/Exercicio2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df0fc055c186818f5ad1dd7997cd89abb1ffeb27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eafdecision11/AndroidStudioProjects/Exercicio2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8c393d05c270bd03102ad993e9807082f88ea6c">
+        <dex dex="/Users/eafdecision11/AndroidStudioProjects/Exercicio2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e3ff3a346ce9a2bcd2e992c9af832c5629b38668/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercicio2</string>
+    <string name="small_text">Texto Pequeno</string>
+    <string name="medium_text">Texto Médio</string>
+    <string name="large_text">Texto Grande</string>
+    <string name="proxima_tela">Próxima Tela</string>
+    <string name="titulo2">Widgets Opcoes Usuarios</string>
+    <string name="pergunta1">Blocos que voce cursou</string>
+    <string name="pergunta2">Qual o so do seu celular</string>
+    <string name="pergunta3">Qual Bloco voce esta cursando</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>
